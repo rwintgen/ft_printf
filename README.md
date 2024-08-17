@@ -1,2 +1,2 @@
 # ft_printf
-C implementation of printf
+C function that aims to replicate the behavior of the printf function from stdio.h
